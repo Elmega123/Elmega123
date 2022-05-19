@@ -1,7 +1,7 @@
 <img src="https://cdn.glitch.global/a6627508-9b6c-450d-b82a-0971a9b4e6ca/mylogo3.jpg?v=1652489799792" alt="">
 <h1 align="center">Hi 👋, I'm Pablo De La O</h1>
 <h3 align="center">A passionate Full Stack developer from Mexico</h3>
-<img width="28%" alt="Night Coding" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" align="right"/>
+<img width="50%" alt="Night Coding" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" align="right"/>
 
 - 👨‍💻 You can take a look at my website at [https://pablothedev.netlify.app](https://pablothedev.netlify.app)
 
